@@ -1,0 +1,15 @@
+/home/steven/Developer/umg/csharp/Clase15Abril/bin/Debug/net7.0/Clase15Abril
+/home/steven/Developer/umg/csharp/Clase15Abril/bin/Debug/net7.0/Clase15Abril.deps.json
+/home/steven/Developer/umg/csharp/Clase15Abril/bin/Debug/net7.0/Clase15Abril.runtimeconfig.json
+/home/steven/Developer/umg/csharp/Clase15Abril/bin/Debug/net7.0/Clase15Abril.dll
+/home/steven/Developer/umg/csharp/Clase15Abril/bin/Debug/net7.0/Clase15Abril.pdb
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.csproj.AssemblyReference.cache
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.GeneratedMSBuildEditorConfig.editorconfig
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.AssemblyInfoInputs.cache
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.AssemblyInfo.cs
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.csproj.CoreCompileInputs.cache
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.dll
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/refint/Clase15Abril.dll
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.pdb
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/Clase15Abril.genruntimeconfig.cache
+/home/steven/Developer/umg/csharp/Clase15Abril/obj/Debug/net7.0/ref/Clase15Abril.dll
